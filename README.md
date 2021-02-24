@@ -1,2 +1,2 @@
 # DiceeGame
-Pequeño juego de dados
+Dicee Game
